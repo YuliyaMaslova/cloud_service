@@ -1,4 +1,4 @@
-package com.example.cloud_service.dao;
+package com.example.cloud_service.model;
 
 import lombok.Data;
 

@@ -1,0 +1,18 @@
+### login
+POST http://localhost:8083/login
+Content-Type: application/json
+
+{
+  "login": "dvmaslov",
+  "password": "123"
+}
+
+#### logout
+
+POST http://localhost:8083/logout
+auth-token: a89c5f0f-539d-45bc-8f32-1358674d2d00
+Content-Type: application/json
+
+{}
+
+
